@@ -19,4 +19,12 @@ Yaktocat, the adorable black cat with a pull request and glowing red eyes, is th
 
 ## Let's Code Together!
 
+Check out these blogs:
+<div class="blog-list">
+  {% for post in site.posts %}
+    <h2><a href="/skills-github-pages/{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="post-date">{{ post.date | date_to_string }}</p>
+  {% endfor %}
+</div>
+
 Inspired by Yaktocat? Start exploring the world of Git and GitHub! 
