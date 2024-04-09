@@ -22,7 +22,7 @@ Yaktocat, the adorable black cat with a pull request and glowing red eyes, is th
 Check out these blogs:
 <div class="blog-list">
   {% for post in site.posts %}
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="https://mr-mr-314.github.io/skills-github-pages/{{ post.url }}">{{ post.title }}</a></h2>
     <p class="post-date">{{ post.date | date_to_string }}</p> 
   {% endfor %}
 </div>
