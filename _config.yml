@@ -1,0 +1,8 @@
+# Site settings
+title: Yaktocat  # Change this to your desired title
+author: Mr.MR              # Replace with your name
+description: >-               # Write a great description for your site.
+  A site for Yaktocat built with Jekyll and the Minima theme.
+
+# Build settings
+theme: minima
