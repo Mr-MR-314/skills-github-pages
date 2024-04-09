@@ -7,7 +7,7 @@ layout: default
 
 ## Yaktocat: The GitHub Icon
 
-  *// Replace with a link to a Yaktocat image*
+  *![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)*
 
 Yaktocat, the adorable black cat with a pull request and glowing red eyes, is the beloved official mascot of GitHub. Created by Jessica Kang in 2011, Yaktocat represents the spirit of collaboration and open-source development.
 
